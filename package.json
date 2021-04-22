@@ -20,7 +20,7 @@
     "colors": "1.1.2",
     "detective": "4.3.1",
     "glob": "7.0.5",
-    "is-builtin-module": "1.0.0",
+    "is-builtin-module": "3.1.0",
     "log-symbols": "1.0.2",
     "ora": "0.3.0",
     "request": "2.74.0",
