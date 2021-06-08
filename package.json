@@ -22,7 +22,7 @@
     "glob": "7.0.5",
     "is-builtin-module": "1.0.0",
     "log-symbols": "1.0.2",
-    "ora": "0.3.0",
+    "ora": "5.4.1",
     "request": "2.74.0",
     "sync-exec": "0.6.2",
     "yargs": "4.8.1"
